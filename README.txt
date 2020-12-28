@@ -1,6 +1,6 @@
 Teacher Private Lesson
 
-Teacher Private Lesson is a small project conducted by Manar Hasan, Baraa Aqel and Mohamad Husseini.
+Teacher Private Lesson is a small project conducted by Bara Aqel , Manar Hasan and Mohamad Husseini.
 The idea is that a parent could create a profile on our website to link his child with a professional teacher who is willing to give private lessons for an agreed price.
 When a user first visits our website, he/she will be greeted by our login page which has the registration form as well as the login form.
 We also added a few pictures that are dynamically changed by hovering over them using jQurey.
