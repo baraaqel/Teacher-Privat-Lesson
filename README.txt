@@ -10,3 +10,5 @@ If you're a teacher you can add your lessons to the lessons page so that parents
 Our project was built on the Django framework and we implemented JS as well as jQuery and Ajax in specific pages.
 
 Trello Url : https://trello.com/b/Zl398evo/tpl
+
+![123](https://user-images.githubusercontent.com/74205591/105695874-41e90000-5f0b-11eb-8daa-985cce13dc4d.jpg)
