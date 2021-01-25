@@ -8,3 +8,5 @@ After login the you'll be directed to your new profile page( if you're a parent,
 Once you're in, if you're a parent, you can look up specific subjects or the names of the teachers (if you know any of them) and you can book an appointment for your child with that specific teacher.
 If you're a teacher you can add your lessons to the lessons page so that parents will find it when they're looking for a certain subject.
 Our project was built on the Django framework and we implemented JS as well as jQuery and Ajax in specific pages.
+
+Trello Url : https://trello.com/b/Zl398evo/tpl
